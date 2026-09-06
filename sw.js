@@ -1,4 +1,4 @@
-const CACHE = 'detaillane-v5-commercial-1';
+const CACHE = 'detaillane-v5-1-commercial-1';
 const OWN_CACHE_PREFIXES = ['detaillane-', 'quickquote-'];
 const ASSETS = ['./','./index.html','./manifest.webmanifest','./favicon.ico','./icons/icon-192.png','./icons/icon-512.png','./icons/icon-180.png'];
 self.addEventListener('install', event => { event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(ASSETS))); self.skipWaiting(); });
