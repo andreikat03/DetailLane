@@ -2,7 +2,7 @@
   "id": "./",
   "name": "DetailLane",
   "short_name": "DetailLane",
-  "description": "Oferte, programări, clienți și statistici pentru firme de detailing.",
+  "description": "Oferte, programări, check-in cu poze, recontactări și statistici pentru firme de detailing.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

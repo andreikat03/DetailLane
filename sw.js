@@ -1,4 +1,4 @@
-const CACHE = 'detaillane-v4-0-ux-1';
+const CACHE = 'detaillane-v4-3-service-reminders-1';
 const OWN_CACHE_PREFIXES = ['detaillane-', 'quickquote-'];
 const ASSETS = [
   './',
